@@ -1,0 +1,53 @@
+15:04:52.721 [main] INFO  org.testng.annotations.Test - Validating expected message...
+15:04:52.731 [main] INFO  org.testng.annotations.Test - ****** finished TC_002_ValidateImageAndHeaders ****** 
+15:04:52.736 [main] INFO  org.testng.annotations.Test - ****** Starting TC_003_ValidateNewsItems ******
+15:04:52.759 [main] INFO  org.testng.annotations.Test - ****** finished TC_003_ValidateNewsItems ****** 
+15:04:52.764 [main] INFO  org.testng.annotations.Test - ****** Starting TC_004_ValidateAppsAndTools ******
+15:04:52.897 [main] INFO  org.testng.annotations.Test - Clicked on the all app's and tools link
+15:05:02.681 [main] INFO  org.testng.annotations.Test - ****** finished TC_004_ValidateAppsAndTools ******
+15:06:13.094 [main] INFO  org.testng.annotations.Test - ****** Starting TC_001_ValidateUser ******
+15:06:13.887 [main] INFO  org.testng.annotations.Test - Clicked on User info button
+15:06:14.936 [main] INFO  org.testng.annotations.Test - User info screenshot is taken
+15:06:15.742 [main] INFO  org.testng.annotations.Test - Validating expected message...
+15:06:15.744 [main] INFO  org.testng.annotations.Test - ****** finished TC_001_ValidateUser ****** 
+15:06:15.759 [main] INFO  org.testng.annotations.Test - ****** Starting TC_002_ValidateImageAndHeaders ******
+15:06:16.331 [main] INFO  org.testng.annotations.Test - Featured News screenshot is taken
+15:06:16.331 [main] INFO  org.testng.annotations.Test - Validating expected message...
+15:06:16.331 [main] INFO  org.testng.annotations.Test - ****** finished TC_002_ValidateImageAndHeaders ****** 
+15:06:16.335 [main] INFO  org.testng.annotations.Test - ****** Starting TC_003_ValidateNewsItems ******
+15:06:16.473 [main] INFO  org.testng.annotations.Test - ****** Starting TC_004_ValidateAppsAndTools ******
+15:06:16.649 [main] INFO  org.testng.annotations.Test - Clicked on the all app's and tools link
+15:06:25.930 [main] INFO  org.testng.annotations.Test - ****** finished TC_004_ValidateAppsAndTools ******
+15:08:23.012 [main] INFO  org.testng.annotations.Test - ****** Starting TC_001_ValidateUser ******
+15:08:23.474 [main] INFO  org.testng.annotations.Test - Clicked on User info button
+15:08:24.094 [main] INFO  org.testng.annotations.Test - User info screenshot is taken
+15:08:24.945 [main] INFO  org.testng.annotations.Test - Validating expected message...
+15:08:24.948 [main] INFO  org.testng.annotations.Test - ****** finished TC_001_ValidateUser ****** 
+15:08:24.963 [main] INFO  org.testng.annotations.Test - ****** Starting TC_002_ValidateImageAndHeaders ******
+15:08:25.551 [main] INFO  org.testng.annotations.Test - Featured News screenshot is taken
+15:08:25.551 [main] INFO  org.testng.annotations.Test - Validating expected message...
+15:08:25.552 [main] INFO  org.testng.annotations.Test - ****** finished TC_002_ValidateImageAndHeaders ****** 
+15:08:25.555 [main] INFO  org.testng.annotations.Test - ****** Starting TC_003_ValidateNewsItems ******
+15:08:25.748 [main] INFO  org.testng.annotations.Test - Clicked on the featured news link
+15:08:28.236 [main] INFO  org.testng.annotations.Test - News Screeshot is taken
+15:08:28.364 [main] INFO  org.testng.annotations.Test - Clicked on the be.Congnizant link
+15:08:31.539 [main] INFO  org.testng.annotations.Test - Clicked on the featured news link
+15:08:34.381 [main] INFO  org.testng.annotations.Test - News Screeshot is taken
+15:08:34.527 [main] INFO  org.testng.annotations.Test - Clicked on the be.Congnizant link
+15:08:37.529 [main] INFO  org.testng.annotations.Test - Clicked on the featured news link
+15:08:39.637 [main] INFO  org.testng.annotations.Test - News Screeshot is taken
+15:08:39.762 [main] INFO  org.testng.annotations.Test - Clicked on the be.Congnizant link
+15:08:42.584 [main] INFO  org.testng.annotations.Test - Clicked on the featured news link
+15:08:45.234 [main] INFO  org.testng.annotations.Test - News Screeshot is taken
+15:08:45.346 [main] INFO  org.testng.annotations.Test - Clicked on the be.Congnizant link
+15:08:48.272 [main] INFO  org.testng.annotations.Test - Clicked on the featured news link
+15:09:00.638 [main] INFO  org.testng.annotations.Test - News Screeshot is taken
+15:09:00.801 [main] INFO  org.testng.annotations.Test - Clicked on the be.Congnizant link
+15:09:03.557 [main] INFO  org.testng.annotations.Test - ****** finished TC_003_ValidateNewsItems ****** 
+15:09:03.563 [main] INFO  org.testng.annotations.Test - ****** Starting TC_004_ValidateAppsAndTools ******
+15:09:03.719 [main] INFO  org.testng.annotations.Test - Clicked on the all app's and tools link
+15:09:13.164 [main] INFO  org.testng.annotations.Test - ****** finished TC_004_ValidateAppsAndTools ******
+15:22:41.973 [main] INFO  org.testng.annotations.Test - ****** Starting TC_001_ValidateUser ******
+15:22:42.591 [main] INFO  org.testng.annotations.Test - Clicked on User info button
+15:22:43.716 [main] INFO  org.testng.annotations.Test - User info screenshot is taken
+15:22:44.684 [main] INFO  org.testng.annotations.Test - Validating expected message...
